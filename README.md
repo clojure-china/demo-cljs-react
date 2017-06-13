@@ -14,6 +14,12 @@ yarn watch
 
 Based on [shadow-cljs](https://github.com/thheller/shadow-cljs).
 
+Also try Lumo
+
+```bash
+lumo -i entry/server-render.cljs
+```
+
 ### License
 
 MIT
